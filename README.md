@@ -22,5 +22,5 @@ the default password is hardcoded as "password". You can use the 'change passwor
 
 ## Feedback
 
-This is not built as optimally as it could be. If you have any feedback or improvements, please email me at bleachisbadforyou@gmail.com. 
+This is not built as optimally as it could be. If you have any feedback or improvements, please email me at bleachcodes@gmail.com. 
 
